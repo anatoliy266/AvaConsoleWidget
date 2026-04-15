@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="AvaConsoleWidget/Avalonia.Terminal.csproj" />
+  <Project Path="Avalonia.Terminal.Tests/Avalonia.Terminal.Tests.csproj" Id="941eb9fc-4fee-476e-8535-bf4342125899" />
+  <Project Path="AvaTerminal/AvaTerminal.Browser/AvaTerminal.Browser.csproj" />
+  <Project Path="AvaTerminal/AvaTerminal.Desktop/AvaTerminal.Desktop.csproj" />
+  <Project Path="AvaTerminal/AvaTerminal/AvaTerminal.csproj" />
+</Solution>
