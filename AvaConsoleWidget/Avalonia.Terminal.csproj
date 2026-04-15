@@ -43,4 +43,8 @@
       <DependentUpon>TextTemplate1.txt</DependentUpon>
     </None>
   </ItemGroup>
+
+  <ItemGroup>
+    <None Include=".github\workflows\Build.yml" />
+  </ItemGroup>
 </Project>
